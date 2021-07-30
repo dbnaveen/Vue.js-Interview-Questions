@@ -1,0 +1,9 @@
+#### Two-Way Data Binding in Vue With v-model
+
+- Vue supports two way data binding via the `v-model` property
+- It's a powerful pattern for `building Javascript forms with vue`.
+
+For example, you have an input element and a variable called name. Two way dat binding means:
+
+1. When the user types in the input element, the name gets updated to match the value in the input
+2. When you update the name, the input elements content gets updated
